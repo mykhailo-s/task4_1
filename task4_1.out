@@ -1,0 +1,18 @@
+--- Hardware ---
+CPU: Intel(R) Core(TM)2 Duo CPU     T7300  @ 2.00GHz
+RAM: 757828 KB
+Motherboard: Oracle Corporation VirtualBox
+System Serial Number: Unknown
+--- System ---
+OS Distribution: Ubuntu 16.04.4 LTS
+Kernel version: 4.4.0-116-generic
+Installation date: 2018-03-13 19:36
+Hostname: ubuntu-srv1
+Uptime: 0 weeks, 0 days, 00 hours, 57 minutes
+Processes running: 126
+Users logged in: 4
+--- Network ---
+lo: 127.0.0.1/8
+enp0s3: 10.0.2.15/24
+enp0s8: -
+enp0s9: 192.168.56.101/24
